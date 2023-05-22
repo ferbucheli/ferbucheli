@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferbucheli&label=Profile%20views&color=0e75b6&style=flat" alt="ferbucheli" /> </p>
 
-- 🔭 I’m currently working on [Shop App](https://github.com/ferbucheli/shop_app)
+- 🔭 I’m currently working on [Chat App](https://github.com/ferbucheli/Chat-app)
 
 - 🌱 I’m currently learning **Flutter, React & DJango**
 
